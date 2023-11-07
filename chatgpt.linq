@@ -6,7 +6,7 @@
   <IncludeAspNet>true</IncludeAspNet>
 </Query>
 
-static string apiKey = "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";
+static string apiKey = "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";
 
 void Main()
 {
